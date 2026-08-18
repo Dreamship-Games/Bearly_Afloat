@@ -30,11 +30,6 @@
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/b6e233cab7f149599033d045b18a7dc1"
 		},
 		{
-			"Name": "SmoothSyncPlugin",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/c8f61b007fb44f4abcb7b0974cebff6b"
-		},
-		{
 			"Name": "Water",
 			"Enabled": true
 		},
